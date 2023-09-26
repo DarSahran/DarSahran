@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sahran Altaf and I'm a CAD Engineer from Wrench Wielders Racing.</h2>
+<h2 align="left">Hi 👋! it's DAR and I'm a CAD Engineer at Wrench Wielders Racing.</h2>
 
 ###
 
