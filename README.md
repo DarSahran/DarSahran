@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/DarSahran/DarSahran/blob/main/giphy.gif"  />
+<img align="right" height="250" src="https://github.com/DarSahran/DarSahran/blob/main/giphy.gif"  />
 
 ###
 
