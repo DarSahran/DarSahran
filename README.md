@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sahranaltaf/" target="_blank">
-    <img src="https://github.com/DarSahran/DarSahran/blob/main/snake.svg" height="35" alt="linkedin logo"  />
+    <img src="https://www.linkedin.com/in/sahranaltaf" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DarSahran/DarSahran/output/snake.svg](https://profile-readme-generator.com/assets/snake.svg)https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DarSahran/DarSahran/output/snake.svg" alt="Snake animation" />
 
 ###
