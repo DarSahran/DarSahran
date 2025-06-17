@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hey, I'm Dar Sahran!  
 
-<!--
-**DarSahran/DarSahran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                        AI enthusiast & developer from India
 
-Here are some ideas to get you started:
+### 🏆 GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarSahran&theme=flat&no-bg=true&margin-w=10)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring AI, ML, and building cool projects 🚀
+
+## 🚀 About Me  
+🔹 Lifelong learner, curious about the world  
+🔹 Passionate about building and breaking things to learn  
+🔹 Love combining creativity with logic  
+
+## 🛠️ Tech Stack  
+💻 Programming: Python | TypeScript | Jupyter Notebook | HTML  
+🌐 Web Dev: HTML | CSS | (React/Next.js if used in future projects)  
+🤖 AI & ML: CNNs | GANs | Transformers | Deep Learning | Data Science
+
+## 📂 Notable Projects  
+- **[EasyMaid](https://github.com/DarSahran/EasyMaid)** — TypeScript  
+- **[battery-life-predictor](https://github.com/DarSahran/battery-life-predictor)** — Jupyter Notebook  
+- **[qa-ml-automation-framework](https://github.com/DarSahran/qa-ml-automation-framework)** — Jupyter Notebook, PyTest, ML  
+- **[blind_assistance](https://github.com/DarSahran/blind_assistance)** — Python, Computer Vision  
+- **[sea_level_data_monitoring](https://github.com/DarSahran/sea_level_data_monitoring)** — Python, Data Science  
+- **[sales-churn-dashboard](https://github.com/DarSahran/sales-churn-dashboard)** — Python, Dashboard  
+- **[customer-ops-simulator](https://github.com/DarSahran/customer-ops-simulator)** — Python, Simulation  
+- **[Depth-Anything-V2](https://github.com/DarSahran/Depth-Anything-V2)** — Python, Deep Learning  
+- **[House-Prediction](https://github.com/DarSahran/House-Prediction)** — Jupyter Notebook, ML  
+- **[Portfolio](https://github.com/DarSahran/Portfolio)** — HTML
+
+> _You have 12 public repositories, see more at [My GitHub](https://github.com/search?q=user:DarSahran&per_page=100&sort=updated&order=desc&type=Repositories)_
+
+## 🧠 AI & Deep Learning  
+🚀 Hands-on with:  
+✅ **GANs** – Creating new realities  
+✅ **CNNs & Transformers** – Vision and language models  
+✅ **Deepfake Detection** – Combating misinformation  
+✅ **LLMs** – Powering next-gen AI applications  
+
+## 🌟 Let's Connect!  
+📬 Interested in AI collabs, open-source, or sharing ideas?  
+📌 [LinkedIn](https://www.linkedin.com/in/[your-linkedin]/)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=DarSahran&style=flat-square)  
