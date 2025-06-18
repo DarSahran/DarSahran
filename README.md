@@ -12,10 +12,36 @@ Currently exploring AI, ML, and building cool projects 🚀
 🔹 Passionate about building and breaking things to learn  
 🔹 Love combining creativity with logic  
 
-## 🛠️ Tech Stack  
-💻 Programming: Python | TypeScript | Jupyter Notebook | HTML  
-🌐 Web Dev: HTML | CSS | (React/Next.js if used in future projects)  
-🤖 AI & ML: CNNs | GANs | Transformers | Deep Learning | Data Science
+## 🛠️ Tech Stack
+
+### 💻 Programming & Scripting
+
+Python | SQL | YAML | Bash
+
+### 📊 Analytics & BI
+
+Power BI | Tableau | Excel | KPI Dashboards | Forecasting | Slicers
+
+### 🧠 Machine Learning & AI
+
+XGBoost | SHAP | Deep Learning | Data Science | NLP
+
+### 🧪 Data Engineering
+
+Databricks | REST APIs | FastAPI | Streamlit | Data Pipelines
+
+### ⚙️ Automation & DevOps
+
+Power Automate | GitHub Actions | CI/CD Workflows | Docker
+
+### 📈 Visualization & Reporting
+
+SHAP | Matplotlib | Seaborn | KPI Cards | Decomposition Trees
+
+### 🧰 Tools & Environments
+
+Git | Jupyter Notebook | VS Code
+
 
 ## 📂 Notable Projects  
 - **[EasyMaid](https://github.com/DarSahran/EasyMaid)** — TypeScript  
@@ -40,6 +66,6 @@ Currently exploring AI, ML, and building cool projects 🚀
 
 ## 🌟 Let's Connect!  
 📬 Interested in AI collabs, open-source, or sharing ideas?  
-📌 [LinkedIn](https://www.linkedin.com/in/[your-linkedin]/)  
+📌 [LinkedIn](https://www.linkedin.com/in/sahranaltaf/)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DarSahran&style=flat-square)  
