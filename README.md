@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Dar Sahran!  
+# 👋 Hey, I'm Sahran Altaf!  
 
                         AI enthusiast & developer from India
 
 ### 🏆 GitHub Achievements  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarSahran&theme=flat&no-bg=true&margin-w=10)
 
-Currently exploring AI, ML, and building cool projects 🚀
+Currently exploring Data Science, AI, ML, and building cool projects 🚀
 
 ## 🚀 About Me  
 🔹 Lifelong learner, curious about the world  
